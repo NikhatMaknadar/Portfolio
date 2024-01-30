@@ -54,7 +54,7 @@ function Hero() {
             </span>
           </h1>
           <a
-            href="https://github.com/ShahidMakanadar/Portfolio/blob/main/src/components/Shahid%20Makandar(CV).pdf"
+            href="https://drive.google.com/file/d/1t117HxI75T6KsubnuwOQSnrS-yZJkdWg/view?usp=sharing"
           >
             <button className="Dbutton"> 
               <svg
@@ -85,7 +85,7 @@ function Hero() {
                   </g>{" "}
                 </g>
               </svg>{" "}
-              <span> Go to My Resume ( cv ), Click here </span>
+              <span> DOWNLOAD MY RESUME ( cv ) </span>
             </button>
           </a>
         </div>
